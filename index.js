@@ -2,6 +2,8 @@ const express = require('express');
 
 const app = express();
 
+app.set('port', (process.env.PORT || 3000));
+
 app.use(express.static('public'));
 
 app.get('/:time',(req,res) => {
@@ -24,8 +26,8 @@ app.get('/:time',(req,res) => {
 });
 
 
-app.listen(3000,() => {
-    console.log("You are listening to port 3000!");
+app.listen(app.get('port'),() => {
+    console.log("You are listening to port 3000!",app.get('port'));
 });
 
 
