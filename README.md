@@ -1,7 +1,6 @@
 # Timestamp Microservice
 
-This is the first API project from back end development certificate on freeCodeCamp.＜/br＞
-The Heroku link is : [https://frozen-hamlet-98229.herokuapp.com/](https://frozen-hamlet-98229.herokuapp.com/).
+This is the first API project from back end development certificate on freeCodeCamp.＜/br＞The Heroku link is : [https://frozen-hamlet-98229.herokuapp.com/](https://frozen-hamlet-98229.herokuapp.com/).
 
 ## Author
 
