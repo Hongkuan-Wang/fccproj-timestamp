@@ -1,5 +1,7 @@
 # Timestamp Microservice
 
+*__Note__: To look at a newly-built full-stack Todo List project using React, Redux, ExpressJS and MongoDB, please click [here](https://github.com/hongkuancn/todo-list).*
+
 This is the first API project from back end development certificate on freeCodeCamp.<br />
 The Heroku link is : [https://frozen-hamlet-98229.herokuapp.com/](https://frozen-hamlet-98229.herokuapp.com/).
 
